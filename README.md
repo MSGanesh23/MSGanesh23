@@ -13,6 +13,8 @@
 
 # Github Stats :
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MSGanesh23&hide_title=true&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=MSGanesh23&hide_title=true&show_icons=true&include_all_commits=true&theme=midnight-purple)
+
 <p align="center">
   <img src="./profile/streak.svg" alt="GitHub Streak Stats" />
 </p>
